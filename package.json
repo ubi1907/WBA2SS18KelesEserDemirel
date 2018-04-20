@@ -1,0 +1,15 @@
+{
+  "name": "wba2blatt1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aufgabe1.js",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
