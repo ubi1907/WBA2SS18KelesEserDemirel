@@ -2,7 +2,7 @@
 var fs = require('fs');
 const chalk = require('chalk');
 
-fs.readFile("staedte.json",	function(err,data)	{	
+fs.readFile("staedte.json",	function(err,data)	{
 
 console.log();
 if(err) console.error("Couldn't parse"+Name+"\n");
