@@ -1,0 +1,1006 @@
+{
+    "actualMenu": {
+        "events": [
+            {
+                "eventName": "U2 | All-In Premium Package",
+                "eventDate": "2018-08-31",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | Premium Seat",
+                "eventDate": "2018-08-31",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 - eXPERIENCE + iNNOCENCE Tour",
+                "eventDate": "2018-08-31",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | Silver Hot Ticket Package",
+                "eventDate": "2018-08-31",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | (RED) Zone Package",
+                "eventDate": "2018-08-31",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | Gold Hot Ticket Package",
+                "eventDate": "2018-08-31",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | VIP Party Package",
+                "eventDate": "2018-08-31",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | All-In Premium Package",
+                "eventDate": "2018-09-01",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 - eXPERIENCE + iNNOCENCE Tour",
+                "eventDate": "2018-09-01",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | Premium Seat",
+                "eventDate": "2018-09-01",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | Silver Hot Ticket Package",
+                "eventDate": "2018-09-01",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | Gold Hot Ticket Package",
+                "eventDate": "2018-09-01",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | VIP Party Package",
+                "eventDate": "2018-09-01",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | (RED) Zone Package",
+                "eventDate": "2018-09-01",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "U2 | (RED) Zone Package",
+                "eventDate": "2018-09-04",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Silver Hot Ticket Package",
+                "eventDate": "2018-09-04",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Premium Package Loge",
+                "eventDate": "2018-09-04",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | VIP Party Package",
+                "eventDate": "2018-09-04",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 - eXPERIENCE + iNNOCENCE Tour",
+                "eventDate": "2018-09-04",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Gold Hot Ticket Package",
+                "eventDate": "2018-09-04",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Premium Package Snack & Seat",
+                "eventDate": "2018-09-04",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Gold Hot Ticket Package",
+                "eventDate": "2018-09-05",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Silver Hot Ticket Package",
+                "eventDate": "2018-09-05",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Premium Package Loge",
+                "eventDate": "2018-09-05",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 - eXPERIENCE + iNNOCENCE Tour",
+                "eventDate": "2018-09-05",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | (RED) Zone Package",
+                "eventDate": "2018-09-05",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Premium Package Snack & Seat",
+                "eventDate": "2018-09-05",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "U2 | Gold Hot Ticket Package",
+                "eventDate": "2018-10-03",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 | Lass Rocken Package",
+                "eventDate": "2018-10-03",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 | (RED) Zone Package",
+                "eventDate": "2018-10-03",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 - eXPERIENCE + iNNOCENCE Tour",
+                "eventDate": "2018-10-03",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 | VIP Party Package",
+                "eventDate": "2018-10-03",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 | Silver Hot Ticket Package",
+                "eventDate": "2018-10-03",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 | Silver Hot Ticket Package",
+                "eventDate": "2018-10-04",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 | VIP Party Package",
+                "eventDate": "2018-10-04",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 | Gold Hot Ticket Package",
+                "eventDate": "2018-10-04",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 | (RED) Zone Package",
+                "eventDate": "2018-10-04",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "U2 - eXPERIENCE + iNNOCENCE Tour",
+                "eventDate": "2018-10-04",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "JAY-Z and BEYONCÉ | VIP5-GOLD oder VIP6-SILVER Fan Package",
+                "eventDate": "2018-07-03",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "JAY-Z and BEYONCÉ | RUNWAY EARLY ENTRY Package (VIP3)",
+                "eventDate": "2018-07-03",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "JAY-Z and BEYONCÉ | OTR II",
+                "eventDate": "2018-07-03",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "JAY-Z and BEYONCÉ | Club Carter VIP Experience (VIP2)",
+                "eventDate": "2018-07-03",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "JAY-Z and BEYONCÉ | VIP4 - EARLY ENTRY Package",
+                "eventDate": "2018-07-03",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "JAY-Z and BEYONCÉ | VIP RISER EXPERIENCE Package (VIP1)",
+                "eventDate": "2018-07-03",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Shania Twain | Platin Tickets",
+                "eventDate": "2018-10-05",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Shania Twain",
+                "eventDate": "2018-10-05",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Shania Twain | Hot Ticket Package",
+                "eventDate": "2018-10-05",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Shania Twain | Front Row Package",
+                "eventDate": "2018-10-05",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Shania Twain",
+                "eventDate": "2018-10-08",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Shania Twain | Platin Tickets",
+                "eventDate": "2018-10-08",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Shania Twain | Front Row Package",
+                "eventDate": "2018-10-08",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Shania Twain | Premium Package",
+                "eventDate": "2018-10-08",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Shania Twain | Hot Ticket Package",
+                "eventDate": "2018-10-08",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Shania Twain | Hot Ticket Package",
+                "eventDate": "2018-10-13",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Shania Twain | Front Row Package",
+                "eventDate": "2018-10-13",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Shania Twain | Premium Package",
+                "eventDate": "2018-10-13",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Shania Twain",
+                "eventDate": "2018-10-13",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Shania Twain | Platin Tickets",
+                "eventDate": "2018-10-13",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Jay-Z & Beyoncé | Business-Seat",
+                "eventDate": "2018-07-03",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "JAY-Z and BEYONCÉ | Platin Tickets",
+                "eventDate": "2018-07-03",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": " BTS | Love Yourself Package",
+                "eventDate": "2018-10-16",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "BTS World Tour - Love Yourself",
+                "eventDate": "2018-10-16",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "BTS World Tour - Love Yourself",
+                "eventDate": "2018-10-17",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": " BTS | Love Yourself Package",
+                "eventDate": "2018-10-17",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP4-Nicki’s Silver Ticket Bundle - Standing Room Floor",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP2 - Nicki’s Gold VIP Experience - Standing Room Floor",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP1 - Nicki’s Diamond VIP Experience",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP3 - Nicki’s Gold VIP Experience - Reserved Bowl",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP5 - Nicki’s Silver Ticket Bundle - Reserved Bowl",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP2 - Nicki’s Gold VIP Experience - Standing Room Floor",
+                "eventDate": "2019-03-22",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP1 - Nicki’s Diamond VIP Experience",
+                "eventDate": "2019-03-22",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Nicki Minaj & Future",
+                "eventDate": "2019-03-22",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP5 - Nicki’s Silver Ticket Bundle - Reserved Bowl",
+                "eventDate": "2019-03-22",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP4-Nicki’s Silver Ticket Bundle - Standing Room Floor",
+                "eventDate": "2019-03-22",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP3 - Nicki’s Gold VIP Experience - Reserved Bowl",
+                "eventDate": "2019-03-22",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP2 - Nicki’s Gold VIP Experience - Standing Room Floor",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP4-Nicki’s Silver Ticket Bundle - Standing Room Floor",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Nicki Minaj & Future | Premium Package",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP3 - Nicki’s Gold VIP Experience - Reserved Bowl",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP5 - Nicki’s Silver Ticket Bundle - Reserved Bowl",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP1 - Nicki’s Diamond VIP Experience",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Nicki Minaj & Future | All-In Premium Package",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP2 - Nicki’s Gold VIP Experience - Standing Room Floor",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP4-Nicki’s Silver Ticket Bundle - Standing Room Floor",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP1 - Nicki’s Diamond VIP Experience",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj & Future | Premium Seat",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP3 - Nicki’s Gold VIP Experience - Reserved Bowl",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj | VIP5 - Nicki’s Silver Ticket Bundle - Reserved Bowl",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj & Future",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-07-13",
+                "venueCity": "Mannheim"
+            },
+            {
+                "eventName": "Post Malone",
+                "eventDate": "2018-08-12",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-07-13",
+                "venueCity": "Mannheim"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-08-08",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-08-08",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-08-08",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-08-08",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-08-08",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-08-08",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-08-08",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-08-09",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-08-09",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-08-09",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-08-09",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-08-09",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-08-09",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-08-09",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-08-20",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-08-20",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-08-20",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-08-20",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-08-20",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-08-20",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-08-20",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-08-21",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-08-21",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-08-21",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-08-21",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-08-21",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-08-21",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-08-21",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Justin Timberlake | Lass Rocken Package",
+                "eventDate": "2018-08-08",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | Premium Package",
+                "eventDate": "2018-08-09",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-08-12",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-08-12",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-08-12",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-08-12",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-08-12",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-08-12",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-08-12",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | All-In Premium Package",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | Premium Seat",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-08-13",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-07-13",
+                "venueCity": "Mannheim"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-07-13",
+                "venueCity": "Mannheim"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-07-13",
+                "venueCity": "Mannheim"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-07-13",
+                "venueCity": "Mannheim"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-07-13",
+                "venueCity": "Mannheim"
+            },
+            {
+                "eventName": "Justin Timberlake | Premium Package Loge",
+                "eventDate": "2018-07-21",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-07-21",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-07-21",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-07-21",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-07-21",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-07-21",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-07-21",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-07-21",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | Platin Tickets",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake - The Man Of The Woods Tour",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | Premium Package",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | The Standing Room \"Party Pit\" VIP Upgrade",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | The Stage Bar VIP Experience",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Stehplatz Package",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | Premium Package Loge",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | \"Man of the Woods\" Premium Sitzplatz Package",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Justin Timberlake | Party Pit VIP Experience",
+                "eventDate": "2018-07-22",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Eminem | Ultimate Package",
+                "eventDate": "2018-07-10",
+                "venueCity": "Hannover"
+            },
+            {
+                "eventName": "Eminem | Early Entry Package",
+                "eventDate": "2018-07-10",
+                "venueCity": "Hannover"
+            },
+            {
+                "eventName": "Eminem | VIP Party Package",
+                "eventDate": "2018-07-10",
+                "venueCity": "Hannover"
+            },
+            {
+                "eventName": "Eminem",
+                "eventDate": "2018-07-10",
+                "venueCity": "Hannover"
+            },
+            {
+                "eventName": "Eminem | Platin Tickets",
+                "eventDate": "2018-07-10",
+                "venueCity": "Hannover"
+            },
+            {
+                "eventName": "5 Seconds Of Summer",
+                "eventDate": "2018-11-12",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "5 Seconds Of Summer | Soundcheck Experience Package",
+                "eventDate": "2018-11-12",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "5 Seconds Of Summer | Soundcheck Experience Package",
+                "eventDate": "2018-11-15",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "5 Seconds Of Summer",
+                "eventDate": "2018-11-15",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Future | Freebandz VIP Package",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Nicki Minaj & Future | Platin Tickets",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Nicki Minaj & Future",
+                "eventDate": "2019-03-23",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Future | Meet & Greet Package",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Nicki Minaj & Future",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Nicki Minaj & Future | Platin Tickets",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Future | Freebandz VIP Package",
+                "eventDate": "2019-02-21",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Nicki Minaj & Future | Platin Tickets",
+                "eventDate": "2019-03-22",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Future | Freebandz VIP Package",
+                "eventDate": "2019-03-22",
+                "venueCity": "Frankfurt am Main"
+            },
+            {
+                "eventName": "Future | Freebandz VIP Package",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Nicki Minaj & Future | Platin Tickets",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Future | Meet & Greet Package",
+                "eventDate": "2019-02-28",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Halsey",
+                "eventDate": "2018-09-26",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "5 Seconds Of Summer | Soundcheck Experience Package",
+                "eventDate": "2018-11-06",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "5 Seconds Of Summer",
+                "eventDate": "2018-11-06",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Elton John - Farewell Yellow Brick Road | Lounge-Tickets",
+                "eventDate": "2019-05-12",
+                "venueCity": "Oberhausen"
+            },
+            {
+                "eventName": "Elton John - Farewell Yellow Brick Road",
+                "eventDate": "2019-05-12",
+                "venueCity": "Oberhausen"
+            },
+            {
+                "eventName": "Thirty Seconds To Mars",
+                "eventDate": "2018-08-22",
+                "venueCity": "Dresden"
+            },
+            {
+                "eventName": "Thirty Seconds To Mars | Platin Tickets",
+                "eventDate": "2018-08-22",
+                "venueCity": "Dresden"
+            },
+            {
+                "eventName": "Thirty Seconds To Mars",
+                "eventDate": "2018-08-27",
+                "venueCity": "Freiburg"
+            },
+            {
+                "eventName": "Thirty Seconds To Mars | Platin Tickets",
+                "eventDate": "2018-08-27",
+                "venueCity": "Freiburg"
+            },
+            {
+                "eventName": "Thirty Seconds To Mars | Platin Tickets",
+                "eventDate": "2018-09-05",
+                "venueCity": "Hannover"
+            },
+            {
+                "eventName": "Thirty Seconds To Mars",
+                "eventDate": "2018-09-05",
+                "venueCity": "Hannover"
+            },
+            {
+                "eventName": "Godsmack",
+                "eventDate": "2018-11-02",
+                "venueCity": "Hamburg"
+            },
+            {
+                "eventName": "Godsmack",
+                "eventDate": "2018-11-11",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Godsmack",
+                "eventDate": "2018-11-12",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Godsmack",
+                "eventDate": "2018-11-19",
+                "venueCity": "München"
+            },
+            {
+                "eventName": "Alice in Chains",
+                "eventDate": "2018-07-04",
+                "venueCity": "Köln"
+            },
+            {
+                "eventName": "Alice in Chains",
+                "eventDate": "2018-07-03",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Britney Spears | Early Entry Package",
+                "eventDate": "2018-08-06",
+                "venueCity": "Berlin"
+            },
+            {
+                "eventName": "Britney Spears",
+                "eventDate": "2018-08-06",
+                "venueCity": "Berlin"
+            }
+        ]
+    }
+}
